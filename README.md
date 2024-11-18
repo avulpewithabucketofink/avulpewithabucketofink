@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @avulpewithabucketofink (*・ω・)ﾉ
+- 👀 I’m interested in DS homebrew development, but also in 3DS and PSP homebrew development too
+- 🌱 I’m currently learning how to code in C/C++
+- 💞️ I’m looking to collaborate on DS homebrew game development
+- 📫 How to reach me: Discord: @furretinaforest, SpaceHey: https://spacehey.com/tomorrowgalaxy
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: i'm also an artist, though mostly with basic pixel art & using gel pen and paper
