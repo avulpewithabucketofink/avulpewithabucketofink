@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @avulpewithabucketofink (*・ω・)ﾉ
-- 👀 I’m interested in DS homebrew development, but also in 3DS and PSP homebrew development too
-- 🌱 I’m currently learning how to code in C/C++
-- 💞️ I’m looking to collaborate on DS homebrew game development
-- 📫 How to reach me: Discord: @furretinaforest, SpaceHey: https://spacehey.com/tomorrowgalaxy
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i'm also an artist, though mostly with basic pixel art & using gel pen and paper
+╔═══════════════════════════════════════╗
+║████ ██  ██ ██  ██ ████  ██████ ██████ ║
+║██    ████  ███ ██ ██ ██ ████   ██  ██ ║
+║██     ██   ██ ███ ██ ██ ██     █████  ║
+║█████  ██   ██  ██ ████  ██████ ██  ███║
+╚═══════════════════════════════════════╝
+main personal website: https://cynderthekitsune.neocities.org/ (this is soo broken lmao i'm trying to fix it-)
+- hi, I’m @avulpewithabucketofink ( ▔ ω ▔ )ﾉ
+- i’m mostly interested in dumb projects (that i never finish TwT) but i'm also sorta good with HTML/CSS
+- i'm also an artist, plus i use Linux - MX is my fave tho Arch-based are cool too.
