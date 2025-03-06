@@ -1,8 +1,13 @@
 ╔═══════════════════════════════════════╗
+
 ║████ ██  ██ ██  ██ ████  ██████ ██████ ║
+
 ║██    ████  ███ ██ ██ ██ ████   ██  ██ ║
+
 ║██     ██   ██ ███ ██ ██ ██     █████  ║
+
 ║█████  ██   ██  ██ ████  ██████ ██  ███║
+
 ╚═══════════════════════════════════════╝
 main personal website: https://cynderthekitsune.neocities.org/ (this is soo broken lmao i'm trying to fix it-)
 - hi, I’m @avulpewithabucketofink ( ▔ ω ▔ )ﾉ
